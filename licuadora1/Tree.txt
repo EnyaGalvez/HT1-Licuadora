@@ -1,0 +1,24 @@
+HT1-Licuadora
+└───licuadora1
+    ├───src
+    │   ├───main
+    │   │   └───java
+    │   │       └───edu
+    │   │           └───uvg
+    │   └───test
+    │       └───java
+    │           └───edu
+    │               └───uvg
+    └───target
+        ├───classes
+        │   └───edu
+        │       └───uvg
+        ├───generated-sources
+        │   └───annotations
+        ├───maven-status
+        │   └───maven-compiler-plugin
+        │       └───compile
+        │           └───default-compile
+        └───test-classes
+            └───edu
+                └───uvg
